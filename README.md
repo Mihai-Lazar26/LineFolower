@@ -16,7 +16,7 @@ Build a robot which resembles a little car and uses infrared light sensors to de
   * LiPo battery
   * Wires
 
-#### The showcase video can be found [here](https://www.youtube.com/watch?v=JXPrWjsa9Xg).
+#### The showcase video can be found [here](https://youtu.be/QyPcQv6Bde8).
 
 #### Photo of the setup:
 <img src="/line_follower/photo.jpeg?raw=true" width=25% height=25% />
